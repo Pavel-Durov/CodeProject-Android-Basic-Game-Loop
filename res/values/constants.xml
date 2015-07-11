@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- ******************************************* -->
+	<!-- ********        MOBILE         ************ -->
+	<!-- ******************************************* -->
+
+	<!-- Activity indexes -->
+	<item type="id" name="main_activity">Not Activity</item>
+	<item type="id" name="game_activity">Main Menu</item>
+	
+	
+	<!-- RESULT CODE FOR ACTIVITY -->
+	<item type="id" name="resultNotResult">Not Result</item>
+	<item type="id" name="resultFromMainMenu">After main Menu</item>
+    <item type="id" name="resultFromGameActivity">After Game Activity</item>
+
+</resources>
